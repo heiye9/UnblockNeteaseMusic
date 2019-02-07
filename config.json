@@ -1,6 +1,6 @@
 {
-    "port": 8080,
-    "strict": false,
+    "port": 9999,
+    "strict": true,
     "proxyUrl": null,
     "forceHost": null,
     "matchOrder": "qq,xiami,baidu"
